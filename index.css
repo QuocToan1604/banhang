@@ -30,24 +30,25 @@
 .left{
     padding-top: 20px;
     padding-left: 10px;
-    width: 50%;
+    width: 34%;
     height: auto;
     float: left;
 }
 .right{
     margin-left: 10px;
-    width: 45%;
+    width: 64%;
     height: auto;
     float: right;
+    padding-top: 20px;
 }
 .h1{
     width: 100%;
     height: auto;
     float: left;
-    font-size: 18px;
+    font-size: 24px;
 }
 .h2{
-    margin-top: 10px;
+    margin-top: 40px;
     width: 100%;
     height: auto;
     float: left;
@@ -57,7 +58,7 @@
     height: 50px;
     float: left;
     border: 1px solid black;
-    padding-left: 60px;
+    padding-left: 150px;
     padding-top: 10px;
     font-size: 22px;
     background-color: white;
@@ -69,14 +70,15 @@
     font-size: 22px;
     background-color: black;
     color: aliceblue;
-    padding-left: 70px;
+    padding-left: 160px;
     padding-top: 10px;
-    margin-left: 30px;
+    margin-left: 90px;
 }
 .gt{
+    margin-top: 22px;
     padding-top:10px;
     width: 100%;
     height: auto;
     float: left;
-    font-size: 17px;
+    font-size: 28px;
 }
